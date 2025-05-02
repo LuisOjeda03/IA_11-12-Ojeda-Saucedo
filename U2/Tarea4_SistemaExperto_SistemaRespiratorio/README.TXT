@@ -5,3 +5,5 @@ En este apartado se sube todo el proceso de desarrollo de un sistema experto cap
 utilización en la programación.
 
 2. Segunda parte: Graficamos una Red de Inferencia para mostrar como como se organizan los síntomas con las distintas enfermedades con las operaciones logicas AND/OR y se elaboraron reglas escritas que representan lo anteriormente graficado y con una estructura que nos ayuda para manejar la logica proposicional.
+
+3. Tercera parte: En este documento se utilizan las reglas creadas anteriormente y se crean con una lógica de predicados.
