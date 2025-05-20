@@ -7,5 +7,5 @@ por lo tanto se prefirió omitirlo.
 Página donde se obtuvo el dataset original:
 https://www.kaggle.com/datasets/furcifer/fane-facial-expressions-and-emotion-dataset
 
-Se pueden ver algunos de los resultados en el siguiente enlace donde subimos una parte de los resultados de cada emoción que estamos utilizando:
+Se pueden ver algunos de los resultados en el siguiente enlace, donde subimos una parte de las imágenes luego del procesado de cada emoción que estamos utilizando:
 https://drive.google.com/drive/folders/1SoV2ArzBysjoWRLyn60F9SbZzVIk4PXf?usp=drive_link
